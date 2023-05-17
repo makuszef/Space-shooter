@@ -1,0 +1,9 @@
+﻿<Application x:Class="Space_battles_hooter_WPF_WOO_ICT.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Space_battles_hooter_WPF_WOO_ICT"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

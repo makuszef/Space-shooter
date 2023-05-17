@@ -1,0 +1,16 @@
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\bin\Debug\Space battles hooter WPF WOO ICT.exe.config
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\bin\Debug\Space battles hooter WPF WOO ICT.exe
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\bin\Debug\Space battles hooter WPF WOO ICT.pdb
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space battles hooter WPF WOO ICT.csproj.AssemblyReference.cache
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space battles hooter WPF WOO ICT.csproj.SuggestedBindingRedirects.cache
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\MainWindow.g.cs
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\App.g.cs
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space battles hooter WPF WOO ICT_MarkupCompile.cache
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space battles hooter WPF WOO ICT_MarkupCompile.lref
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\MainWindow.baml
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space battles hooter WPF WOO ICT.g.resources
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space_battles_hooter_WPF_WOO_ICT.Properties.Resources.resources
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space battles hooter WPF WOO ICT.csproj.GenerateResource.cache
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space battles hooter WPF WOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space battles hooter WPF WOO ICT.exe
+C:\Users\NinaiHubert\source\repos\Space battles hooter WPF WOO ICT\Space battles hooter WPF WOO ICT\obj\Debug\Space battles hooter WPF WOO ICT.pdb
